@@ -1,0 +1,45 @@
+_repo: The-Children-s-Book-of-Thanksgiving-Stories_45114
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45114-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Dickinson, Asa Don
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '1678'
+    url: http://www.gutenberg.org/2009/agents/1678
+description: ''
+gutenberg_issued: '2014-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Thanksgiving Day -- Juvenile fiction'
+tableOfContents: The kingdom of the greedy / P. J. Stahl -- Thankful / Mary E. Wilkins
+  Freeman -- Beetle Ring's Thanksgiving mascot / Sheldon C. Stoddard -- Mistress Esteem
+  Elliott's molasses cake / Kate Upson Clark -- The first Thanksgiving / Albert F.
+  Blaisdell and Francis K. Ball -- Thanksgiving at Todd's Asylum / Winthrop Packard
+  -- How we kept Thanksgiving at Oldtown / Harriet Beecher Stowe -- Wishbone Valley
+  / R. K. Munkittrick -- Patem's salmagundi / E. S. Brooks -- Miss November's dinner
+  party / Agnes Carr -- The visit / Maud Lindsay -- The story of Ruth and Naomi /
+  Adapted from the Bible -- Bert's Thanksgiving / J. T. Trowbridge -- A Thanksgiving
+  story / Miss L. B. Pingree -- John Inglefield's Thanksgiving / Nathaniel Hawthorne
+  -- How Obadiah brought about a Thanksgiving / Emily Hewitt Leland -- The white turkey's
+  wing / Sophie Swett -- The Thanksgiving goose / Fannie Wilder Brown -- An English
+  dinner of Thanksgiving / George Eliot -- A novel postman / Alice Wheildon -- Ezra's
+  Thanksgivin' out west / Eugene Field -- Chip's Thanksgiving / Annie Hamilton Donnell
+  -- The master of the harvest / Mrs. Alfred Gatty -- A Thanksgiving dinner / Edna
+  Payson Brett -- Two old boys / Pauline Shackleford Colyar -- A Thanksgiving dinner
+  that flew away / Hezekiah Butterworth -- Mon-daw-min / H. R. Schoolcraft -- A mystery
+  in the kitchen / Olive Thorne Miller -- Who ate the dolly's dinner? / Isabel Gordon
+  Curtis -- An old-fashioned Thanksgiving / Rose Terry Cooke -- 1800 and froze to
+  death / C. A. Stephens.
+title: The Children's Book of Thanksgiving Stories
+url: http://www.gutenberg.org/ebooks/45114
